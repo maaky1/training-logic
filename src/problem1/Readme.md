@@ -12,7 +12,8 @@ Tugasmu adalah mencari produk terbaik dengan cara membandingkan rasio rating ter
 Kamu diberikan dua array dengan panjang yang sama:
 - prices[] → Harga masing-masing produk.
 - ratings[] → Rating produk (dari 1 hingga 5).
-  💡 Ketentuan:
+
+💡 Ketentuan:
 - 1 ≤ n ≤ 100000 (jumlah produk)
 - 1 ≤ prices[i] ≤ 10⁶
 - 1 ≤ ratings[i] ≤ 5
